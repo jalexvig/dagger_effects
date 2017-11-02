@@ -1,0 +1,4 @@
+models
+tensorboard
+stats*.pkl
+__pycache__
